@@ -1,0 +1,7 @@
+{
+  "name": "eacPay",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
